@@ -3,17 +3,17 @@
     {
       "source": "/",
       "destination": "https://catloveyou.com/",
-      "statusCode": 307
+      "statusCode": 303
     },
     {
       "source": "/:slug",
       "destination": "https://catloveyou.com/:slug",
-      "statusCode": 307
+      "statusCode": 303
     },
     {
       "source": "/posts/:slug",
       "destination": "https://catloveyou.com/:slug",
-      "statusCode": 307
+      "statusCode": 303
     }
   ]
 }
