@@ -9,6 +9,11 @@
       "source": "/:slug",
       "destination": "https://catloveyou.com/:slug",
       "statusCode": 302
+    },
+    {
+      "source": "/posts/:slug",
+      "destination": "https://catloveyou.com/:slug",
+      "statusCode": 302
     }
   ]
 }
