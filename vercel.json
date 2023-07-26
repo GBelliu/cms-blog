@@ -2,7 +2,8 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://catloveyou.com/"
+      "destination": "https://catloveyou.com/",
+      "statusCode": 302
     }
   ]
 }
