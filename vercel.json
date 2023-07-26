@@ -2,18 +2,18 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://catloveyou.com/",
-      "statusCode": 303
+      "destination": "https://catloveyou.com/"
+      
     },
     {
       "source": "/:slug",
-      "destination": "https://catloveyou.com/:slug",
-      "statusCode": 303
+      "destination": "https://catloveyou.com/:slug"
+      
     },
     {
       "source": "/posts/:slug",
-      "destination": "https://catloveyou.com/:slug",
-      "statusCode": 303
+      "destination": "https://catloveyou.com/:slug"
+      
     }
   ]
 }
